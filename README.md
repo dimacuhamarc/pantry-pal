@@ -11,22 +11,22 @@ Pantry Pal is a one-night-project to see if I could accomplish a working proof o
 - Meal details page
 
 ## Checklist
-[x] Project Setup
-  [x] Setup dependencies
-  [x] Setup project structure
-  [x] Setup prettier
-  [x] Setup Linting
-  [x] Setup Deployment
-[ ] Onboarding Page
-  [ ] Create a page where users input their available ingredients
-  [ ] Store ingredient list using Zustand
-  [ ] Allow users to add, edit, and remove ingredients
-[ ] Meal Suggestion Page
-  [ ] Fetch meal suggestions based on ingredients
-  [ ] Use a simple JSON database or a meal API (e.g., Spoonacular)
-  [ ] Display meal suggestions with images and descriptions
-[ ] Meal Details Page
-  [ ] Show a basic recipe or steps for preparing the meal
+- [x] Project Setup
+  - [x] Setup dependencies
+  - [x] Setup project structure
+  - [x] Setup prettier
+  - [x] Setup Linting
+  - [x] Setup Deployment
+- [ ] Onboarding Page
+  - [ ] Create a page where users input their available ingredients
+  - [ ] Store ingredient list using Zustand
+  - [ ] Allow users to add, edit, and remove ingredients
+- [ ] Meal Suggestion Page
+  - [ ] Fetch meal suggestions based on ingredients
+  - [ ] Use a simple JSON database or a meal API (e.g., Spoonacular)
+  - [ ] Display meal suggestions with images and descriptions
+- [ ] Meal Details Page
+  - [ ] Show a basic recipe or steps for preparing the meal
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
