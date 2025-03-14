@@ -2,6 +2,8 @@
 
 Pantry Pal is a one-night-project to see if I could accomplish a working proof of concept for a web-application. 
 
+
+
 ## Features
 
 - Suggests meals based on your current inventory.
@@ -9,12 +11,12 @@ Pantry Pal is a one-night-project to see if I could accomplish a working proof o
 - Meal details page
 
 ## Checklist
-[ ] Project Setup
-  [ ] Setup dependencies
-  [ ] Setup project structure
-  [ ] Setup prettier
-  [ ] Setup Linting
-  [ ] Setup Deployment
+[x] Project Setup
+  [x] Setup dependencies
+  [x] Setup project structure
+  [x] Setup prettier
+  [x] Setup Linting
+  [x] Setup Deployment
 [ ] Onboarding Page
   [ ] Create a page where users input their available ingredients
   [ ] Store ingredient list using Zustand
