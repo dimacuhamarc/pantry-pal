@@ -10,6 +10,11 @@ Pantry Pal is a one-night-project to see if I could accomplish a working proof o
 
 ## Checklist
 [ ] Project Setup
+  [ ] Setup dependencies
+  [ ] Setup project structure
+  [ ] Setup prettier
+  [ ] Setup Linting
+  [ ] Setup Deployment
 [ ] Onboarding Page
   [ ] Create a page where users input their available ingredients
   [ ] Store ingredient list using Zustand
