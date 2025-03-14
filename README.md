@@ -1,6 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Project Details
 
-## Getting Started
+Pantry Pal is a one-night-project to see if I could accomplish a working proof of concept for a web-application. 
+
+## Features
+
+- Suggests meals based on your current inventory.
+- Inventory input, Persistent
+- Meal details page
+
+## Checklist
+[ ] Project Setup
+[ ] Onboarding Page
+  [ ] Create a page where users input their available ingredients
+  [ ] Store ingredient list using Zustand
+  [ ] Allow users to add, edit, and remove ingredients
+[ ] Meal Suggestion Page
+  [ ] Fetch meal suggestions based on ingredients
+  [ ] Use a simple JSON database or a meal API (e.g., Spoonacular)
+  [ ] Display meal suggestions with images and descriptions
+[ ] Meal Details Page
+  [ ] Show a basic recipe or steps for preparing the meal
+
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
